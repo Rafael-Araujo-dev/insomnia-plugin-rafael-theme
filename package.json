@@ -1,12 +1,10 @@
 {
   "name": "insomnia-plugin-rafael-theme",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "insomnia": {                    
-    "name": "base64",
-    "displayName": "base64 Plugin",
-    "description": "The base64 plugin encodes and decodes basic strings.",
+  "private": true,
+  "insomnia": {
+    "name": "rafael-theme",
+    "description": "",
     "images": {
       "icon": "icon.svg",
       "cover": "cover.svg"
@@ -15,20 +13,14 @@
       "name": "Rafael Araujo",
       "icon": "https://github.com/Rafael-Araujo-dev"
     },
-
     "unlisted": true
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "main.js",
+  "author": "Rafael-Araujo-dev",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme.git"
-  },
-  "author": "Rafael-Araujo-dev",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme/issues"
   },
   "homepage": "https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme#readme"
 }
