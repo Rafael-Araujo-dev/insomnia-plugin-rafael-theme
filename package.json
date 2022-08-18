@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-rafael-theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "insomnia": {
     "name": "rafael-theme",
     "description": "",
@@ -21,5 +21,12 @@
     "type": "git",
     "url": "git+https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme.git"
   },
-  "homepage": "https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme#readme"
+  "homepage": "https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme#readme",
+  "description": "Tema personalizado para Insomnia",
+  "bugs": {
+    "url": "https://github.com/Rafael-Araujo-dev/insomnia-plugin-rafael-theme/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
