@@ -1,7 +1,6 @@
 {
   "name": "insomnia-plugin-rafael-theme",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.3",
   "insomnia": {
     "name": "rafael-theme",
     "description": "",
@@ -13,7 +12,7 @@
       "name": "Rafael Araujo",
       "icon": "https://github.com/Rafael-Araujo-dev"
     },
-    "unlisted": true
+    "unlisted": false
   },
   "main": "main.js",
   "author": "Rafael-Araujo-dev",

@@ -19,7 +19,7 @@ module.exports.themes = [{
         success:     '#100D23',    // secondary font color for success background
         notice:      '#100D23',    // secondary font color for notice background
         warning:     '#100D23',    // secondary font color for warning background
-        danger:      '#100D23',    // secondary font color for danger background
+        danger:      '#FFFFFF', // secondary font color for// secondary font color for danger background
         surprise:    '#100D23',    // secondary font color for surprise background
         info:        '#100D23'     // secondary font color for info background
       },
